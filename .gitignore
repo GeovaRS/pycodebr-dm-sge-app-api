@@ -1,0 +1,10 @@
+.git
+.flake8
+.editorconfig
+.env
+.venv
+venv
+config.toml
+*.sqlite
+*.sqlite3
+__pycache__/
